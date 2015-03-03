@@ -1,8 +1,6 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * *
  *** ** @Title:  CongMingMain.java
- *** ** @author: Will_Lau
  *** ** @date:   2014-11-29
- *** ** @since   Iron
  * * * * * * * * * * * * * * * * * * * * * * * * */
 
 import java.util.Scanner;
